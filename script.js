@@ -2,7 +2,7 @@
 // @name         Trello Title Dejacker
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Stops Trello from putting unread count in the title.
+// @description  Stops Trello from putting unread count in the title. See blog for more @ http://www.astige.com/anthony-technical-business/2016/04/02/disabling-trello-alerts/
 // @author       Anthony Astige
 // @match        https://trello.com/*
 // @grant        none
