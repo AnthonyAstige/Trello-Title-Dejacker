@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Stops Trello from putting unread count in the title.
 // @author       Anthony Astige
-// @match        https://trello.com/
+// @match        https://trello.com/*
 // @grant        none
 // ==/UserScript==
 
